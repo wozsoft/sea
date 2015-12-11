@@ -1,7 +1,5 @@
-# seaworkflow
-
-SEA Workflow
-------------
+SEA Enterprise Applications
+---------------------------
 
 A general purpose ERP Application.
 
