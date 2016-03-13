@@ -1,10 +1,8 @@
-SEA Enterprise Applications
----------------------------
+Wozsoft Enterprise Resource Planning (wozerp)
+---------------------------------------------
 
-A general purpose ERP Application.
+A set of general purpose ERP Applications for medium to large scale businesses.
 
 First developed as a bespoke project in 2012 and now moving to open source.
 
-Further commits will be completed in 2016.
-
-Thanks for your interest, please follow me.
+Full source will be committed during 2016.
